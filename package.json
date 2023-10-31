@@ -1,0 +1,20 @@
+{
+  "name": "easygiffy",
+  "version": "1.0.1",
+  "description": "Repo to add easy animation and gif to your website or project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hug0exe/easyAnim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hug0exe/easyAnim/issues"
+  },
+  "homepage": "https://github.com/hug0exe/easyAnim#readme"
+}
