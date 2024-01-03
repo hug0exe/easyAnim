@@ -1,6 +1,6 @@
 // An object to store the word and its associated image details
 const library = {};
-
+console.log(library)
 function addWord() {
     const word = document.getElementById("wordInput").value;
     const url = document.getElementById("urlInput").value;
